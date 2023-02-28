@@ -1,7 +1,2 @@
-- 👋 Hi, I’m @6SUPER6SONIC6
+- 👋 Hi, I’m Vadym Tantsiura
 - 🌱 I’m currently learning Android development
-
-<!---
-6SUPER6SONIC6/6SUPER6SONIC6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
