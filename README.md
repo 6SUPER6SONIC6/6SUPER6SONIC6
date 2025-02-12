@@ -3,7 +3,8 @@
 I'm an Android developer with a passion for creating intuitive and engaging mobile applications. I enjoy working with Jetpack Compose and modern Android technologies.
 
 🚀 **Current Projects:**
-- **[Heart Rate](https://github.com/6SUPER6SONIC6/HeartRate):** An Android app that uses your phone's camera to measure your heart rate.
+- **[Wallet Watcher](https://github.com/6SUPER6SONIC6/WalletWatcher):** Android app for viewing crypto wallet balances.
+- **[Heart Rate](https://github.com/6SUPER6SONIC6/HeartRate):** An Android app that utilizes your phone's camera to measure your heart rate.
 - **[ONPLATE](https://github.com/6SUPER6SONIC6/ONPLATE):** Recipe storage application.
 
 🎯 **Goals:**
