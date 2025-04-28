@@ -1,28 +1,26 @@
-
 # Hi, I'm Vadym! 👋
-I'm an Android developer with a passion for creating intuitive and engaging mobile applications. I enjoy working with Jetpack Compose and modern Android technologies.
 
-🚀 **Current Projects:**
-- **[Wallet Watcher](https://github.com/6SUPER6SONIC6/WalletWatcher):** App for viewing Ethereum wallet balances, tokens, and transactions.
-- **[Heart Rate](https://github.com/6SUPER6SONIC6/HeartRate):** App that uses your phone's camera to measure your heart rate.
-- **[ONPLATE](https://github.com/6SUPER6SONIC6/ONPLATE):** Recipe storage app.
+**Android Developer | Kotlin & Jetpack Compose**
 
-🎯 **Goals:**
-- Finally get a grip and finish [ONPLATE](https://github.com/6SUPER6SONIC6/ONPLATE) 😅.
-- Learn Kotlin Multiplatform for cross-platform development.
-- Continually improving my skills.
-- Master advanced Android development techniques and architectural patterns.
+I’m passionate about building clean, modern, and user-friendly mobile applications. I specialize in **Jetpack Compose**, **Kotlin**, and modern Android development practices — creating apps that are scalable, efficient, and visually engaging.
 
+## 🚀 **Current Projects:**
+- [**Wallet Watcher**](https://github.com/6SUPER6SONIC6/WalletWatcher) — Track Ethereum wallet balances, tokens, and transactions.
+- [**Heart Rate**](https://github.com/6SUPER6SONIC6/HeartRate) — Measure your heart rate using your phone’s camera and CameraX.
+- [**ONPLATE**](https://github.com/6SUPER6SONIC6/ONPLATE) — A recipe storage and cooking assistant app.
 
-🛠 **Skills:**
+## 🎯 **Current Goals:**
+- Finalize and polish [**ONPLATE**](https://github.com/6SUPER6SONIC6/ONPLATE) 🚀
+- Dive into **Kotlin Multiplatform** for cross-platform app development
+- Master advanced architectural patterns (MVI, Clean Architecture, modularization)
+- Continuously improve UI/UX design skills
+
+## 🛠 **Tech Stack:**
 - **Languages:** Kotlin, Java
-- **Frameworks/Libraries:** Jetpack Compose, Room, Hilt, Retrofit, CameraX
-- **Tools:** Android Studio, Git, Firebase
+- **Frameworks/Libraries:** Jetpack Compose, Room, Hilt, Retrofit, CameraX, Ktor
+- **Tools:** Android Studio, Git, Firebase, Figma
 
+## 📫 **Let's connect:**
 
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://vadym-tantsiura.notion.site/Hey-I-m-Vadym-and-this-is-a-showcase-of-my-projects-fff1fde46301806697d9ef2dd9b4e716?pvs=4)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vadym-tantsiura-a930a7218/)
 [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](http://t.me/VTantsiura)
-
-
+[![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vadym-tantsiura-a930a7218/)
