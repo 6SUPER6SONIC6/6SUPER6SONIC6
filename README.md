@@ -1,26 +1,34 @@
 # Hi, I'm Vadym! 👋
 
-**Android Developer | Kotlin & Jetpack Compose**
+**Software Developer | Python & Mobile Development**
 
-I’m passionate about building clean, modern, and user-friendly mobile applications. I specialize in **Jetpack Compose**, **Kotlin**, and modern Android development practices — creating apps that are scalable, efficient, and visually engaging.
+I'm a developer transitioning from Android development to Python, passionate about building clean, efficient, and user-friendly applications
 
-## 🚀 **Current Projects:**
-- [**Wallet Watcher**](https://github.com/6SUPER6SONIC6/WalletWatcher) — Track Ethereum wallet balances, tokens, and transactions.
+## 🚀 My Projects:
+**Python:**
+- [**Wallet Watcher**](https://github.com/6SUPER6SONIC6/wallet-watcher) — CLI tool for tracking Ethereum wallet balances and token holdings.
+
+**Android:**
 - [**Heart Rate**](https://github.com/6SUPER6SONIC6/HeartRate) — Measure your heart rate using your phone’s camera and CameraX.
 - [**ONPLATE**](https://github.com/6SUPER6SONIC6/ONPLATE) — A recipe storage and cooking assistant app.
 
-## 🎯 **Current Goals:**
-- Finalize and polish [**ONPLATE**](https://github.com/6SUPER6SONIC6/ONPLATE) 🚀
-- Dive into **Kotlin Multiplatform** for cross-platform app development
-- Master advanced architectural patterns (MVI, Clean Architecture, modularization)
-- Continuously improve UI/UX design skills
+## 🎯 Current Goals:
+- Deepen Python knowledge with web frameworks (Django/FastAPI) and database integration
+- Complete CS50's Introduction to Computer Science course
+- Build more Python projects focusing on web development and APIs
 
-## 🛠 **Tech Stack:**
-- **Languages:** Kotlin, Java
-- **Frameworks/Libraries:** Jetpack Compose, Room, Hilt, Retrofit, CameraX, Ktor
-- **Tools:** Android Studio, Git, Firebase, Figma
+## 🛠 Tech Stack:
+- **Languages:** Python, Kotlin
+- **Python:** requests, argparse, pytest, csv, rich, pillow
+- **Android:** Jetpack Compose, Room, Hilt, Retrofit, CameraX, Ktor
+- **Tools:** Git, PyCharm, VS Code, Android Studio, Linux terminal, Figma
 
-## 📫 **Let's connect:**
+## 📚 Learning Journey:
+- **Completed:** CS50's Introduction to Programming with Python (Harvard/edX)
+- **In Progress:** CS50's Introduction to Computer Science
+- **Background:** Android development, QA testing
+
+## 📫 Let's connect:
 
 [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](http://t.me/VTantsiura)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vadym-tantsiura-a930a7218/)
