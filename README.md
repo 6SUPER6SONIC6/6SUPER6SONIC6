@@ -5,12 +5,11 @@
 I'm a developer transitioning from Android development to Python, passionate about building clean, efficient, and user-friendly applications
 
 ## 🚀 My Projects:
-**Python:**
-- [**Wallet Watcher**](https://github.com/6SUPER6SONIC6/wallet-watcher) — CLI tool for tracking Ethereum wallet balances and token holdings.
+- **Wallet Watcher** — Multi-platform cryptocurrency wallet monitoring solution:
+  - [**Web App**](https://github.com/6SUPER6SONIC6/wallet-watcher-web) (Python, Django) - Web interface for checking wallet balance and transactions
+  - [**Android App**](https://github.com/6SUPER6SONIC6/wallet-watcher-android) (Kotlin, Jetpack Compose) - Full-featured mobile app with wallet saving, transaction history, and Material Design 3
 
-**Android:**
-- [**Heart Rate**](https://github.com/6SUPER6SONIC6/HeartRate) — Measure your heart rate using your phone’s camera and CameraX.
-- [**ONPLATE**](https://github.com/6SUPER6SONIC6/ONPLATE) — A recipe storage and cooking assistant app.
+- [**Heart Rate**](https://github.com/6SUPER6SONIC6/HeartRate) — Measure your heart rate using your phone's camera and CameraX.
 
 ## 🎯 Current Goals:
 - Deepen Python knowledge with web frameworks (Django/FastAPI) and database integration
